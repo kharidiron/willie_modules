@@ -31,8 +31,8 @@ class RussianRoulette:
                           5:"o",
                           6:"o"}
         self.rounds = 0
-        # shamelessly stolen from someone else's RR game
-        self.deaths = ("blasts the brains onto the wall.", "looks startled.",
+        # Flavor text stolen from someone else's RR game
+        self.deaths = ("blasts their brains onto the wall.", "looks startled.",
                        "ruins the furniture.", "meets his ancestors.",
                        "ventilates the head.", "scores 1 point.",
                        "- in Soviet Russia, gun levels you.",
